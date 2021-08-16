@@ -30,6 +30,8 @@ Once everything is installed, run the application with the following command:
 
 `node index.js`
 
+SQL files for database setup and seeding can be found in the `/database` directory.
+
 ## Technologies Used
 - [Node.js](https://nodejs.org/en/)
 - **NPM libraries**:
